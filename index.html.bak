@@ -118,22 +118,19 @@
               title="xcb" height="130" width="130"></div>
         </ul>
         <h3> <a class="fontfont" name="work" id="work"></a><b>WORKS</b></h3>
-        <ul>
-          <li class="list-item fontfont"> ARTWORK</li>
-          <br>
-          <button type="button" class="btn btn-primary mybg3" data-bs-toggle="modal"
+        <button type="button" class="btn btn-primary mybg3" data-bs-toggle="modal"
 
-            data-bs-target="#exampleModal"> ARTWORKS </button>
+            data-bs-target="#exampleModal"> Definition </button>
           <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
 
             aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered">
               <div class="modal-content">
                 <div class="modal-header">
-                  <h1 class="modal-title fs-5" id="exampleModalLabel"> ARTWORKS</h1>
+                  <h1 class="modal-title fs-5" id="exampleModalLabel"> Definition</h1>
                   <br>
                 </div>
-                <div class="modal-body"> "My Acrhive Artworks" </div>
+                <div class="modal-body"> "My archive works from 2012 - now" </div>
                 <div class="modal-footer"> <button type="button" class="btn btn-secondary"
 
                     data-bs-dismiss="modal">Close</button> </div>
@@ -141,6 +138,10 @@
             </div>
           </div>
           <br>
+        <ul>
+          <li class="list-item fontfont"> ARTWORK</li>
+          <br>
+          
           
           <div id="carouselExampleIndicators" class="carousel slide">
             <div class="carousel-i ndicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
